@@ -1,3 +1,3 @@
-# gazeme.github.io
+# Gaze
 
-!http://www.gaze-me.com/gaze-black.png!
+![Gaze](http://www.gaze-me.com/gaze-black.png)
